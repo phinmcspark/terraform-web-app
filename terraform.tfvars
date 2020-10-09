@@ -1,0 +1,5 @@
+rg_name = "ndebokila2509"
+rg_location = "west europe"
+sa_name = "sa1809esgi2509"
+sa_account_tier = "standard"
+sa_replication_type = "lrs"
